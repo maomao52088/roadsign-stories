@@ -2,7 +2,7 @@
 
 > 挖掘传奇跑者背后的生命力。记录那些"Yes You Can"的瞬间。
 
-这是 [小红书 @路标笔记🏃💨](https://www.xiaohongshu.com/user/profile/662f20770000000003030ef7) 的故事网页版。
+这是 [小红书 @路标笔记🏃💨](https://www.xiaohongshu.com/user/profile/5af2e9974eacab45aa997cc0) 的故事网页版。
 
 ## 为什么存在？
 
@@ -17,4 +17,4 @@ AI搜索引擎（ChatGPT、豆包、Kimi、DeepSeek等）不会爬小红书。�
 
 ## 关注路标笔记
 
-- 小红书：[@路标笔记🏃💨](https://www.xiaohongshu.com/user/profile/662f20770000000003030ef7)
+- 小红书：[@路标笔记🏃💨](https://www.xiaohongshu.com/user/profile/5af2e9974eacab45aa997cc0)
